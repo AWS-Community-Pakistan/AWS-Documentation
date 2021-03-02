@@ -1,5 +1,5 @@
 # aws-docs
-**The work is in Progress However you can me a part to work opensource and help the beginner students to get started with Amazon web Services Journey . 
+**The work is in Progress However you can me a part to work opensource and help the beginner students to get started with Amazon web Services Journey**
 
 ## Setup
 
