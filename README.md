@@ -13,7 +13,7 @@ yarn install || npm install
 ## Development
 
 ```bash
-yarn dev || npm dev
+yarn dev || npm run dev
 ```
 
 ## Static Generation
@@ -21,7 +21,7 @@ yarn dev || npm dev
 This will create the `dist/` directory for publishing to static hosting:
 
 ```bash
-yarn generate || npm generate
+yarn generate || npm run generate
 ```
 
 To preview the static generated app, run `yarn start || npm start`
