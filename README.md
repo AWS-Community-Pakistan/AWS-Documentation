@@ -1,18 +1,19 @@
 # aws-docs
-**The work is in Progress However you can me a part to work opensource and help the beginner students to get started with Amazon web Services Journey**
+
+**This repo is currently in progress. However, you can be a part of us to contribute in opensource and help the beginners to get started with Amazon web Services.**
 
 ## Setup
 
 Install dependencies:
 
 ```bash
-yarn install
+yarn install || npm install
 ```
 
 ## Development
 
 ```bash
-yarn dev
+yarn dev || npm dev
 ```
 
 ## Static Generation
@@ -20,9 +21,9 @@ yarn dev
 This will create the `dist/` directory for publishing to static hosting:
 
 ```bash
-yarn generate
+yarn generate || npm generate
 ```
 
-To preview the static generated app, run `yarn start`
+To preview the static generated app, run `yarn start || npm start`
 
 For detailed explanation on how things work, checkout [nuxt/content](https://content.nuxtjs.org) and [@nuxt/content theme docs](https://content.nuxtjs.org/themes-docs).
